@@ -70,6 +70,4 @@ Successfully created a VPC with Public and Private subnets.
 - Public subnet allows internet access  
 - Private subnet remains secure and isolated  
 
- Youtube video link --https://youtu.be/yxt9kGjYJWY?si=KYZLHQmEE-m3blhB
-- Use NAT Gateway if private subnet needs internet access  
-- Always follow least privilege principle in IAM  
+ Youtube video link --https://youtu.be/yxt9kGjYJWY?si=KYZLHQmEE-m3blhB  
